@@ -1,6 +1,6 @@
 # GUI Python Pong-Game
 
-A very basic Pong Game, designed in my free time. Although the game element values are not correctly written (I'm not a Gamer :grin:) (**PS: Fork and Change it accordingly in `ball.py` file**)
+A very basic Pong Game, designed in my free time. Although the game element values are not correctly written (I'm not a Gamer 😁) (**PS: Fork and Change it accordingly in `ball.py` file**)
 
 # Module Used
 

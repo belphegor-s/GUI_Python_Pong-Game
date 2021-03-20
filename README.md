@@ -1,6 +1,6 @@
 # GUI Python Pong-Game
 
-A very basic Pong Game, designed in my free time. Although the game element values are not correctly written (I'm not a Gamer 😁) (**PS: Fork and Change it accordingly in `ball.py` file**)
+A very basic Pong Game, designed in my free time. Although the game element (talking about the paddle and ball movement) values are not correctly written (I'm not a Gamer 😁) (**PS: Fork and Change it accordingly in `ball.py` file**)
 
 # Module Used
 
@@ -12,4 +12,4 @@ A very basic Pong Game, designed in my free time. Although the game element valu
 * **For the right → paddle** - Use UP ↑ arrow key for UP and DOWN ↓ arrow key for DOWN
 * **For the left ← paddle** - Use 'W' key for UP and 'S' key for DOWN 
 
-__ENJOY, GRACIAS 👋__
+__ENJOY, GRACIAS 👋__ (who will enjoy this game 😂)
